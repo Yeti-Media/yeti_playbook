@@ -11,6 +11,7 @@
 1. Refactor when is possible the existent code
 1. Check if the documentation needs to be changed: add or update documentation.
 1. if the task will take more time than the expected, we need to communicate the reason of why is taking more time and wait for feedback.
+1. Update changelog if a meaningful change has been made (deprecations, updates, critical bugs).
 
 ## Issue PR:
 1. Run the tests in client and server
