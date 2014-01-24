@@ -29,4 +29,4 @@
 
 ## Deployment:
 1. Run the tests
-1. deploy to staging
+1. deploy to staging (https://bitbucket.org/gestintime-ondemand/gestintimewebclient/wiki/Deploy%20instructions)
