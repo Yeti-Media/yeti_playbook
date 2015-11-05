@@ -2,9 +2,9 @@
 
 ## Take a task:
 1. Read and mark off 'checklist' items also check latest comments.
-1. IF the task has no clear 'checklist', ask to the team and/or the PM.
-1. The Developer should take a task assign to them or from the top of the ToDo list
-1. Each task should have the respective branch (feature branch)
+1. IF the task has no clear 'checklist', ask the team and/or the PM.
+1. The Developer should take a task assigned to them or pick one from the top of the ToDo list
+1. Each task should have it's own respective branch (feature branch)
 
 ## Development:
 1. Write test units and integration testing (all the required tests)
