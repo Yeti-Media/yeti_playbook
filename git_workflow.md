@@ -8,7 +8,7 @@
 ### For new git users:
 * To create a new task branch, when beginning a task:
 
-      git checkout -b <my-branch-name> 
+      git checkout -b my-branch-name
 
 (name the branch something that makes sense for the task like "mc_adding_kitchen_sink"
 
