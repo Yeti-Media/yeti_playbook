@@ -1,4 +1,4 @@
-# Gest In Time Development Process
+# Development Process
 
 ## Take a task:
 1. Read and mark off 'checklist' items also check latest comments.
