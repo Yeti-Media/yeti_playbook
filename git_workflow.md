@@ -19,5 +19,5 @@
 
 * To push the changes to the repo server:
 
-    git push origin <my-branch-name>
+    git push origin my-branch-name
 
