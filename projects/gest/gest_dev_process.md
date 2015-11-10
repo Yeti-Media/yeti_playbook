@@ -18,6 +18,7 @@
 1. Run the build on client (grunt server:dist)
 1. Run the app in production mode
 1. Test the task in the browser
+1. Put a link back to the task the PR is for in the description.
 1. If the task involves design or html integration, we need to test the app with browserstack.
 
 ## PR review:
