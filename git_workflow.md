@@ -22,9 +22,9 @@
 
 * To add the new and changed files:
 
-    git add <filename or dirname>
-    git commit -m "a descriptive message"
+      git add <filename or dirname>
+      git commit -m "a descriptive message"
 
 * To push the changes to the repo server:
 
-    git push origin my-branch-name
+      git push origin my-branch-name
