@@ -6,7 +6,15 @@
 * The PR is approved and merged or rejected.
 
 ### For new git users:
-* To create a new task branch, when beginning a task:
+* Switch to your master branch
+
+      git checkout mater
+      
+* Sync your master with remote master
+
+      git pull origin master
+      
+* Create a new task branch, when beginning a task:
 
       git checkout -b my-branch-name
 
