@@ -1,7 +1,7 @@
 # git
-* Each time that a developer starts a new task, he should make a branch from master.
-* When a task is done, the developer should push the branch to the remote (github, bitbucket).
-* The developer should create a PR including the task link in the description, comments, screenshots/videos.
+* Each time that a developer starts a new task, pull orgin master and make a branch from master.
+* When a task is done, the developer should push the branch to the remote github.
+* The developer should create a PR including the link to the task in the description, comments, screenshots/videos.
 * The code is reviewed and commented if is needed.
 * The PR is approved and merged or rejected.
 
@@ -20,4 +20,3 @@
 * To push the changes to the repo server:
 
     git push origin my-branch-name
-
