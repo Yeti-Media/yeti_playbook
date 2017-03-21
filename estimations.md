@@ -1,4 +1,4 @@
-# Planning poker - pont estimations
+# Point estimations
 * 1: 0-2 hours (trivial)
 * 2: 2-4 hours (half day)
 * 4: 4-8 hours (1 day)
