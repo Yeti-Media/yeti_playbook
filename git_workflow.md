@@ -5,7 +5,7 @@
 * The code is reviewed and commented if is needed.
 * The PR is approved and merged or rejected.
 
-### For new git users:
+### Git workflow:
 * Switch to your master branch
 
       git checkout mater
