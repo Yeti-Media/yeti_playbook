@@ -1,6 +1,6 @@
 # git
 * Each time that a developer starts a new task, pull orgin master and make a branch from master.
-* When a task is done, the developer should push the branch to the remote github.
+* When a task is done, the developer should rebase withe master push the branch to the remote github.
 * The developer should create a PR including the link to the blossom card in the description and comments or screenshots/videos if necessary.
 * The code is reviewed and commented if is needed.
 * The PR is approved and merged or rejected.
@@ -26,5 +26,5 @@
       git commit -m "a descriptive message"
 
 * To push the changes to the repo server:
-
+      git rebase origin master
       git push origin my-branch-name
