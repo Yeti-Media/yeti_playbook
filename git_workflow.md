@@ -27,5 +27,6 @@
 
 * To push the changes to the repo server:
       
+      git fetch
       git rebase origin/master
       git push origin my-branch-name
