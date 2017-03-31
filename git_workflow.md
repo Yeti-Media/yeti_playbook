@@ -30,3 +30,10 @@
       git fetch
       git rebase origin/master
       git push origin my-branch-name
+      
+* Extra help if your having trouble getting the latest master
+
+      git checkout master
+      git pull origin master  
+      git checkout ross_development
+      git rebase origin/master
