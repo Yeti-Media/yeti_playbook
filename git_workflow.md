@@ -29,7 +29,7 @@
       
       git fetch
       git rebase origin/master
-      git push origin my-branch-name
+      git push origin my-branch-name -f
       
 * Extra help if your having trouble getting the latest master
 
