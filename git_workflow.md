@@ -8,7 +8,7 @@
 ### Git workflow:
 * Switch to your master branch
 
-      git checkout mater
+      git checkout master
       
 * Sync your master with remote master
 
