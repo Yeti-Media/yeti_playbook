@@ -5,6 +5,8 @@
 * The code is reviewed and commented if is needed.
 * The PR is approved and merged or rejected.
 
+#### When `submitting a PR` please check to see if you have a `conflict` and resolve it before submitting.
+
 ### Git workflow:
 * Switch to your master branch
 
