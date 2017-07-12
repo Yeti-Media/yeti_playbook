@@ -1,5 +1,10 @@
 # Point estimations
-* 1: 0-2 hours (trivial)
-* 2: 2-4 hours (half day)
-* 4: 4-8 hours (1 day)
-* 8: 8-16 hours (2-3 days)[We should break this into smaller estimates.]
+#### Story points rate the relative effort of work
+This may sound counter-intuitive, but that abstraction is actually helpful because it pushes the team to make tougher decisions around the difficulty of work.
+
+- 0 (trivial issue)
+- 0.5
+- 1
+- 2
+- 4
+- 8 (We should break this into smaller estimates.)
