@@ -8,3 +8,6 @@ This may sound counter-intuitive, but that abstraction is actually helpful becau
 - 2
 - 4
 - 8 (We should break this into smaller estimates.)
+
+# Tip:
+Keep estimations high level. If the team is too far into the weeds, take a breath, and up-level the discussion
