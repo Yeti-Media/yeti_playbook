@@ -9,7 +9,6 @@ Note: Some projects will already have this part completed by a third party. This
 ### Project development phase:
 
 1. Mockups are used as AC.
-1. Poker Planning with the team.
 1. Screencast / shot of feature ready to deliver.
 1. TDD / BDD
 1. PR reviews by your peers.
