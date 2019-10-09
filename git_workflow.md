@@ -7,6 +7,15 @@
 
 #### When `submitting a PR` please check to see if you have a `conflict` and resolve it before submitting.
 
+### Staring New project 
+* Clone the project to your local machine   
+      git clone git://github.com/Yeti-Media/ <The repo you are stating working on>
+* Create a new task branch, when beginning a task:
+      git checkout -b <my-branch-name>
+
+      
+      
+
 ### Git workflow:
 * Switch to your master branch
 
